@@ -1,2 +1,1 @@
-# instagram
-Analysis about the current most influential Instagrammer
+This paper aimed to analyze key statistics that determine the influence of a celebrity on Instagram, such as the number of followers, the average likes per new post, etc., and investigate the correlations of these metrics. Thence, we build a linear model to predict the number of likes of the latest post on an account by looking at its other statistics and design a function to pick the world’s most impactful celebrities on Instagram.
